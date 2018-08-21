@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -416,12 +416,12 @@
 		16FCFBC2E7CBCB1454E38A0E04941AC4 /* DKCamera-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DKCamera-dummy.m"; sourceTree = "<group>"; };
 		17CC6605258D9C5558BAD656DDAD1054 /* DKPhotoPreviewFactory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DKPhotoPreviewFactory.swift; path = DKPhotoGallery/DKPhotoPreviewFactory.swift; sourceTree = "<group>"; };
 		181100FC988EB35656A20277953C85F7 /* SDWebImageImageIOCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageImageIOCoder.h; path = SDWebImage/SDWebImageImageIOCoder.h; sourceTree = "<group>"; };
-		18929BDE28B40666A34FAEFB624454BC /* Pods_ImagePicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ImagePicker.framework; path = "Pods-ImagePicker.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18929BDE28B40666A34FAEFB624454BC /* Pods_ImagePicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ImagePicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A9F9EF85FACA9E374A9385EB58458C /* CLImageEditorTheme+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CLImageEditorTheme+Private.h"; path = "CLImageEditor/ImageTools/ToolSettings/CLImageEditorTheme+Private.h"; sourceTree = "<group>"; };
 		18AFB5B7D999FD1B8FA43DB45EA22498 /* CLClippingTool.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLClippingTool.m; path = CLImageEditor/ImageTools/CLClippingTool/CLClippingTool.m; sourceTree = "<group>"; };
 		1A025E5148781E1B404FD77D4F08D435 /* UIImage+Utility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Utility.h"; path = "CLImageEditor/Utils/UIImage+Utility.h"; sourceTree = "<group>"; };
 		1B969A3E394370C7F4FF28385898B57F /* DKPhotoGallery-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DKPhotoGallery-umbrella.h"; sourceTree = "<group>"; };
-		1C7BC81FD3C268A298EDE2F9DD90895B /* CLImageEditor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CLImageEditor.framework; path = CLImageEditor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1C7BC81FD3C268A298EDE2F9DD90895B /* CLImageEditor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CLImageEditor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D1158F8B4BFB9A41AF456DA5DE7CC09 /* CLImageToolProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLImageToolProtocol.h; path = CLImageEditor/ImageTools/ToolSettings/CLImageToolProtocol.h; sourceTree = "<group>"; };
 		1F9507BB5BFFE656E58532E85D5E103A /* CLEffectBase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLEffectBase.m; path = CLImageEditor/ImageTools/CLEffectTool/CLEffectBase.m; sourceTree = "<group>"; };
 		1FD12AAF2C8104E7AEE2848FB643CEBC /* SDWebImageGIFCoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageGIFCoder.m; path = SDWebImage/SDWebImageGIFCoder.m; sourceTree = "<group>"; };
@@ -440,7 +440,7 @@
 		2B441B8CB07CD2FF89B7A604C11ACAEF /* DKPhotoGalleryScrollView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DKPhotoGalleryScrollView.swift; path = DKPhotoGallery/DKPhotoGalleryScrollView.swift; sourceTree = "<group>"; };
 		2BE193E033CAEABF159183F9E8D28333 /* CLPosterizeEffect.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLPosterizeEffect.m; path = CLImageEditor/ImageTools/CLEffectTool/CLEffect/CLPosterizeEffect.m; sourceTree = "<group>"; };
 		2C42B2C007380E25CB752B76825EE973 /* IQUITextFieldView+Additions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQUITextFieldView+Additions.swift"; path = "IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift"; sourceTree = "<group>"; };
-		2C84C25F45D02F033BE59B1D60675320 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		2C84C25F45D02F033BE59B1D60675320 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2CC3366B8BF27A116CC7ECC15EA870CB /* CLEffectBase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLEffectBase.h; path = CLImageEditor/ImageTools/CLEffectTool/CLEffectBase.h; sourceTree = "<group>"; };
 		2D23E9F12BB3D6DD9694030A8F386076 /* Pods-ImagePicker-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ImagePicker-resources.sh"; sourceTree = "<group>"; };
 		3064861528244F2604702C655360C459 /* UIView+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCache.m"; path = "SDWebImage/UIView+WebCache.m"; sourceTree = "<group>"; };
@@ -455,7 +455,7 @@
 		369A72A343958B0AD7AF17F849A50141 /* CLImageEditor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLImageEditor.m; path = CLImageEditor/CLImageEditor.m; sourceTree = "<group>"; };
 		3728981A00AC9F60A75AF82022B7B570 /* CLImageEditorTheme+Private.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CLImageEditorTheme+Private.m"; path = "CLImageEditor/ImageTools/ToolSettings/CLImageEditorTheme+Private.m"; sourceTree = "<group>"; };
 		3783C15079A7FD096604978FFDF579F9 /* UIImageView+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+WebCache.m"; path = "SDWebImage/UIImageView+WebCache.m"; sourceTree = "<group>"; };
-		385F8F248B49CB75BFD53E017B847F86 /* IQKeyboardManagerSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQKeyboardManagerSwift.framework; path = IQKeyboardManagerSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		385F8F248B49CB75BFD53E017B847F86 /* IQKeyboardManagerSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQKeyboardManagerSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		38B30592E91ECB972BF83B441ED6C098 /* IQKeyboardManagerConstants.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQKeyboardManagerConstants.swift; path = IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift; sourceTree = "<group>"; };
 		391A7C564A4717F3CB1D602AC46D37E8 /* DKCamera-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DKCamera-prefix.pch"; sourceTree = "<group>"; };
 		3A0FF990FDB0E55AA1AC9341E9EC2A45 /* IQNSArray+Sort.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQNSArray+Sort.swift"; path = "IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift"; sourceTree = "<group>"; };
@@ -490,7 +490,7 @@
 		54F583E424ABC0D602657108107857B1 /* UIImage+MultiFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MultiFormat.m"; path = "SDWebImage/UIImage+MultiFormat.m"; sourceTree = "<group>"; };
 		55D9F20713A4D615C2525A4E228222F1 /* DKCamera-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DKCamera-umbrella.h"; sourceTree = "<group>"; };
 		566C5B634E5EDD985C2A93D52AF066C0 /* DKImagePickerController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DKImagePickerController.swift; path = Sources/DKImagePickerController/DKImagePickerController.swift; sourceTree = "<group>"; };
-		57822F1193E2C87C120CA91DB3477904 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDWebImage.framework; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		57822F1193E2C87C120CA91DB3477904 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		58E8A7AEA0A5D5550908F20AD070D998 /* CLHighlightShadowEffect.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLHighlightShadowEffect.m; path = CLImageEditor/ImageTools/CLEffectTool/CLEffect/CLHighlightShadowEffect.m; sourceTree = "<group>"; };
 		5929218EC456C415F1EA0F0A1BDE6C78 /* DKPhotoImageDownloader.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DKPhotoImageDownloader.swift; path = DKPhotoGallery/Preview/ImagePreview/DKPhotoImageDownloader.swift; sourceTree = "<group>"; };
 		5BAF677B76F9E71A33246A3C21A962E1 /* FLAnimatedImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FLAnimatedImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -556,13 +556,13 @@
 		925FC92066DFB88A49A9518E03802800 /* DKImagePickerControllerResource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DKImagePickerControllerResource.swift; path = Sources/DKImagePickerController/Resource/DKImagePickerControllerResource.swift; sourceTree = "<group>"; };
 		92D65314288BFE5E5386B29788A6CA19 /* DKPhotoGallery.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DKPhotoGallery.xcconfig; sourceTree = "<group>"; };
 		92DCD4D50B7336F87F946C8DFB98924E /* Photos.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Photos.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Photos.framework; sourceTree = DEVELOPER_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93B751EB3565E24293D7DA97B924D38E /* CLGloomEffect.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLGloomEffect.m; path = CLImageEditor/ImageTools/CLEffectTool/CLEffect/CLGloomEffect.m; sourceTree = "<group>"; };
 		93EB6ED758CFD7D25466CE37F643AB06 /* SDWebImageTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageTransition.h; path = SDWebImage/SDWebImageTransition.h; sourceTree = "<group>"; };
 		95F2038322E30E298FF0739C16AC585A /* UIView+Frame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Frame.m"; path = "CLImageEditor/Utils/UIView+Frame.m"; sourceTree = "<group>"; };
 		963A6AD53BF471740D18E33961BA8DB6 /* CLClassList.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLClassList.m; path = CLImageEditor/Utils/CLClassList.m; sourceTree = "<group>"; };
 		97ED95C4123714825E67F0D84AA070D9 /* CLSpotEffect.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLSpotEffect.m; path = CLImageEditor/ImageTools/CLEffectTool/CLEffect/CLSpotEffect.m; sourceTree = "<group>"; };
-		98550B5C47D139236421208ACC261CC7 /* DKImagePickerController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DKImagePickerController.framework; path = DKImagePickerController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		98550B5C47D139236421208ACC261CC7 /* DKImagePickerController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DKImagePickerController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		993055677FB7DB5664C664AF344971DE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9978ACBB58D3FDF94A4F3779906A708A /* CLHighlightShadowEffect.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLHighlightShadowEffect.h; path = CLImageEditor/ImageTools/CLEffectTool/CLEffect/CLHighlightShadowEffect.h; sourceTree = "<group>"; };
 		9A2BAEEEDD14E4BB03A92556E03E45E6 /* CLImageEditor-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CLImageEditor-prefix.pch"; sourceTree = "<group>"; };
@@ -570,7 +570,7 @@
 		9DE1FE8EF1ACE766B42CB47EBA1FA9B3 /* CLImageToolInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLImageToolInfo.m; path = CLImageEditor/CLImageToolInfo.m; sourceTree = "<group>"; };
 		9E4C7F88F3F0B0263B68C3CFEEE0ECA1 /* FLAnimatedImage-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FLAnimatedImage-umbrella.h"; sourceTree = "<group>"; };
 		A0B8DBD5E540888A48612808C858D12A /* DKPhotoImageUtility.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DKPhotoImageUtility.swift; path = DKPhotoGallery/Preview/ImagePreview/DKPhotoImageUtility.swift; sourceTree = "<group>"; };
-		A147B998EBC0C9B798D60ECD565531F3 /* FLAnimatedImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FLAnimatedImage.framework; path = FLAnimatedImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A147B998EBC0C9B798D60ECD565531F3 /* FLAnimatedImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FLAnimatedImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A16689FE88F9AAB65CB5C4F7C5635351 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		A182257ABCCB5E05AEA0B0FCF3B7299E /* IQTextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQTextView.swift; path = IQKeyboardManagerSwift/IQTextView/IQTextView.swift; sourceTree = "<group>"; };
 		A22A0135020BB6B4AAC11979ECC539A9 /* Pods-ImagePicker-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ImagePicker-frameworks.sh"; sourceTree = "<group>"; };
@@ -606,7 +606,7 @@
 		B6C9F89F209EA2EDCE4C5C2182FF0FF7 /* DKAssetGroupDetailVC.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DKAssetGroupDetailVC.swift; sourceTree = "<group>"; };
 		B78D78C4A40C0B8A51013063B8310655 /* DKPhotoGallery-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DKPhotoGallery-dummy.m"; sourceTree = "<group>"; };
 		B98BE42EBD973CA95623F36D874561CE /* Pods-ImagePicker-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ImagePicker-dummy.m"; sourceTree = "<group>"; };
-		BAB9BD601155D05D9464F858749AAEA3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		BAB9BD601155D05D9464F858749AAEA3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		BAEBEF16CDDDB192EB1E04D3AC8CD7A8 /* DKImagePickerController.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = DKImagePickerController.bundle; path = Sources/DKImagePickerController/Resource/DKImagePickerController.bundle; sourceTree = "<group>"; };
 		BB648AF2D5B873A7FF7DA3C50B71DB37 /* SDWebImageCodersManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCodersManager.h; path = SDWebImage/SDWebImageCodersManager.h; sourceTree = "<group>"; };
 		BC8D85163C2CDAFBDAA847EBE0F00749 /* DKPhotoGalleryTransitionPresent.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DKPhotoGalleryTransitionPresent.swift; path = DKPhotoGallery/Transition/DKPhotoGalleryTransitionPresent.swift; sourceTree = "<group>"; };
@@ -614,7 +614,7 @@
 		BF4CC9DCD53157154EF2673988F6FECC /* DKPopoverViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DKPopoverViewController.swift; path = Sources/DKImagePickerController/DKPopoverViewController.swift; sourceTree = "<group>"; };
 		C00F8A5EED00EE5829B7827380F05F32 /* DKPhotoGallery-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DKPhotoGallery-prefix.pch"; sourceTree = "<group>"; };
 		C5173920D2EC4FA39030C4A87C04C168 /* CLColorPickerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLColorPickerView.h; path = CLImageEditor/ImageTools/ToolSettings/CLColorPickerView.h; sourceTree = "<group>"; };
-		C5CA0933E3419E156FB9518C355F93A2 /* DKCamera.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DKCamera.framework; path = DKCamera.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C5CA0933E3419E156FB9518C355F93A2 /* DKCamera.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DKCamera.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C67A70A7E92624BF45DF36D2193AE19E /* UIDevice+SystemVersion.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIDevice+SystemVersion.m"; path = "CLImageEditor/Utils/UIDevice+SystemVersion.m"; sourceTree = "<group>"; };
 		C702C300721BBD4985EA03430A1959EB /* IQToolbar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQToolbar.swift; path = IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift; sourceTree = "<group>"; };
 		C823198644B7F32E688C2EF1992C5B7A /* SDWebImageCodersManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageCodersManager.m; path = SDWebImage/SDWebImageCodersManager.m; sourceTree = "<group>"; };
@@ -635,7 +635,7 @@
 		D6B70001D98CEE23CA21AB2F108A2E1A /* IQPreviousNextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQPreviousNextView.swift; path = IQKeyboardManagerSwift/IQToolbar/IQPreviousNextView.swift; sourceTree = "<group>"; };
 		D7FAD219162ECA59454F32ABC381C0CE /* DKAssetGroupGridLayout.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DKAssetGroupGridLayout.swift; sourceTree = "<group>"; };
 		DB4FDAACA839718DE90B88AD511403EA /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/CoreMotion.framework; sourceTree = DEVELOPER_DIR; };
-		DBDAD3C92701B3AB9210FFB1C9518E43 /* DKPhotoGallery.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DKPhotoGallery.framework; path = DKPhotoGallery.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBDAD3C92701B3AB9210FFB1C9518E43 /* DKPhotoGallery.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DKPhotoGallery.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCEFF95FA65BB0D62CFB3E816C6D6400 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		DD77918FA1B9121518863A6434B5F177 /* DKPhotoGallery.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DKPhotoGallery.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD831EF732091AEE22F2E2128018C975 /* CLImageEditorTheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLImageEditorTheme.h; path = CLImageEditor/CLImageEditorTheme.h; sourceTree = "<group>"; };
@@ -649,7 +649,7 @@
 		E76688FBBEF93E39118245E13EDC42A7 /* SDWebImage.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SDWebImage.modulemap; sourceTree = "<group>"; };
 		E95FCD8B1CFD32A12A08F934C2C3861D /* DKPhotoImagePreviewVC.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DKPhotoImagePreviewVC.swift; path = DKPhotoGallery/Preview/ImagePreview/DKPhotoImagePreviewVC.swift; sourceTree = "<group>"; };
 		EBB706759FAFA38F3D07C44550F20EF0 /* SDWebImageDownloaderOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDownloaderOperation.m; path = SDWebImage/SDWebImageDownloaderOperation.m; sourceTree = "<group>"; };
-		EE31AF817C73F5D0C335926C8F47D207 /* DKImagePickerController.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = DKImagePickerController.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		EE31AF817C73F5D0C335926C8F47D207 /* DKImagePickerController.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = DKImagePickerController.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		EE7C4122BBE2171C0B0D5C6FD3D0FEA1 /* SDWebImageFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageFrame.h; path = SDWebImage/SDWebImageFrame.h; sourceTree = "<group>"; };
 		EEB9109B11B07B430C9DE8B06616D8E6 /* IQTitleBarButtonItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQTitleBarButtonItem.swift; path = IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift; sourceTree = "<group>"; };
 		EF74AAABF556D9181834F9F9878376F0 /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCacheOperation.h"; path = "SDWebImage/UIView+WebCacheOperation.h"; sourceTree = "<group>"; };
@@ -928,7 +928,6 @@
 				129B94E4CF8B7934EE8EDAC0CB901178 /* Resource */,
 				561D5ECE06672C3A52D82334C5EC238E /* Support Files */,
 			);
-			name = DKPhotoGallery;
 			path = DKPhotoGallery;
 			sourceTree = "<group>";
 		};
@@ -1168,7 +1167,6 @@
 				8EAF9AB83DBAB7C3A4697B64BDE77E05 /* Resources */,
 				1F6C75EF67EB3091948BDF8F38AB83D0 /* Support Files */,
 			);
-			name = IQKeyboardManagerSwift;
 			path = IQKeyboardManagerSwift;
 			sourceTree = "<group>";
 		};
@@ -1241,7 +1239,6 @@
 				3A122DB409B043D680D3BBEF079F1DE5 /* DKAssetGroupDetailImageCell.swift */,
 				2440BFE4E9B99A9E5DA77E61A3803D06 /* DKAssetGroupDetailVideoCell.swift */,
 			);
-			name = Cell;
 			path = Cell;
 			sourceTree = "<group>";
 		};
@@ -1275,7 +1272,7 @@
 				D5F6C9E0DDDDFE3D4DAFB5BADAA39D38 /* Support Files */,
 			);
 			name = DKImagePickerController;
-			path = "/Users/admin/Downloads/DKImagePickerController-develop";
+			path = "/Users/admin/Desktop/bhuvanesh project/Github/MultipleImagepicker/ImagePicker/DKImagePickerController-develop";
 			sourceTree = "<absolute>";
 		};
 		C31A58C3CC40173147C90965AA409E87 /* Resources */ = {
@@ -1314,7 +1311,6 @@
 				9C195CCC302274689CB824DA52D0D173 /* Core */,
 				C4EBED1446AF824E89D75D0D82C65015 /* Support Files */,
 			);
-			name = CLImageEditor;
 			path = CLImageEditor;
 			sourceTree = "<group>";
 		};
@@ -1342,7 +1338,7 @@
 				F1D9DD8E980AF51A8CEAAF52E0D7583F /* Info.plist */,
 			);
 			name = "Support Files";
-			path = "../../Desktop/bhuvanesh project/Code/task/ImagePicker/Pods/Target Support Files/DKImagePickerController";
+			path = "../Pods/Target Support Files/DKImagePickerController";
 			sourceTree = "<group>";
 		};
 		D8B6C194043BE6DA8F30B85B098B953A /* DKCamera */ = {
@@ -1353,7 +1349,6 @@
 				F1D6ACE31EE516954354E8EE802C7B80 /* Resources */,
 				1849768879CAECCA77FB0FA0CCB53624 /* Support Files */,
 			);
-			name = DKCamera;
 			path = DKCamera;
 			sourceTree = "<group>";
 		};
@@ -1366,7 +1361,6 @@
 				E43FF652328D32ED7A0D23D2E1A54C7F /* FLAnimatedImageView.m */,
 				3D3924F1A4194F95F431F5B0EC6FC242 /* Support Files */,
 			);
-			name = FLAnimatedImage;
 			path = FLAnimatedImage;
 			sourceTree = "<group>";
 		};
@@ -1419,7 +1413,6 @@
 				06333F6365CAF73D11892FB4B0CE6EA7 /* GIF */,
 				A33D3ED39235BC5EB25368DDE6FC44FD /* Support Files */,
 			);
-			name = SDWebImage;
 			path = SDWebImage;
 			sourceTree = "<group>";
 		};
