@@ -1,0 +1,75 @@
+PODS:
+  - CLImageEditor (0.2.0):
+    - CLImageEditor/Core (= 0.2.0)
+  - CLImageEditor/Core (0.2.0)
+  - DKCamera (1.5.3)
+  - DKImagePickerController (4.0.0-beta2):
+    - DKImagePickerController/Camera (= 4.0.0-beta2)
+    - DKImagePickerController/Core (= 4.0.0-beta2)
+    - DKImagePickerController/ImageDataManager (= 4.0.0-beta2)
+    - DKImagePickerController/InlineCamera (= 4.0.0-beta2)
+    - DKImagePickerController/PhotoEditor (= 4.0.0-beta2)
+    - DKImagePickerController/PhotoGallery (= 4.0.0-beta2)
+    - DKImagePickerController/Resource (= 4.0.0-beta2)
+  - DKImagePickerController/Camera (4.0.0-beta2):
+    - DKCamera
+    - DKImagePickerController/Core
+  - DKImagePickerController/Core (4.0.0-beta2):
+    - DKImagePickerController/ImageDataManager
+    - DKImagePickerController/Resource
+  - DKImagePickerController/ImageDataManager (4.0.0-beta2)
+  - DKImagePickerController/InlineCamera (4.0.0-beta2):
+    - DKCamera
+    - DKImagePickerController/Core
+  - DKImagePickerController/PhotoEditor (4.0.0-beta2):
+    - CLImageEditor (= 0.2.0)
+    - DKImagePickerController/Core
+  - DKImagePickerController/PhotoGallery (4.0.0-beta2):
+    - DKImagePickerController/Core
+    - DKPhotoGallery
+  - DKImagePickerController/Resource (4.0.0-beta2)
+  - DKPhotoGallery (0.0.7):
+    - DKPhotoGallery/Core (= 0.0.7)
+    - DKPhotoGallery/Model (= 0.0.7)
+    - DKPhotoGallery/Preview (= 0.0.7)
+    - DKPhotoGallery/Resource (= 0.0.7)
+    - SDWebImage/GIF
+  - DKPhotoGallery/Core (0.0.7):
+    - DKPhotoGallery/Model
+    - DKPhotoGallery/Preview
+    - SDWebImage/GIF
+  - DKPhotoGallery/Model (0.0.7):
+    - SDWebImage/GIF
+  - DKPhotoGallery/Preview (0.0.7):
+    - DKPhotoGallery/Model
+    - DKPhotoGallery/Resource
+    - SDWebImage/GIF
+  - DKPhotoGallery/Resource (0.0.7):
+    - SDWebImage/GIF
+  - FLAnimatedImage (1.0.12)
+  - IQKeyboardManagerSwift (6.1.1)
+  - SDWebImage/Core (4.4.2)
+  - SDWebImage/GIF (4.4.2):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+
+DEPENDENCIES:
+  - DKImagePickerController (from `/Users/admin/Downloads/DKImagePickerController-develop/DKImagePickerController.podspec`)
+  - IQKeyboardManagerSwift
+
+EXTERNAL SOURCES:
+  DKImagePickerController:
+    :path: /Users/admin/Downloads/DKImagePickerController-develop/DKImagePickerController.podspec
+
+SPEC CHECKSUMS:
+  CLImageEditor: ec5ae50b3a54c9818c0bdb243b20665a1c6718e3
+  DKCamera: 6077537273ffac6288071fbbbbf57d57c62e6803
+  DKImagePickerController: aaa611a0c04f2d9afde5b1e4949459706e007ed0
+  DKPhotoGallery: 7f07b6d8a47733fdd76856113c474456b92fc769
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+
+PODFILE CHECKSUM: c9efb6bb2dacefbef13bc2b75d1c98d02d4b8e97
+
+COCOAPODS: 1.4.0
