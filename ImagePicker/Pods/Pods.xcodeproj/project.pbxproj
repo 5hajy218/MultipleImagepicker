@@ -1272,8 +1272,8 @@
 				D5F6C9E0DDDDFE3D4DAFB5BADAA39D38 /* Support Files */,
 			);
 			name = DKImagePickerController;
-			path = "/Users/admin/Desktop/bhuvanesh project/Github/MultipleImagepicker/ImagePicker/DKImagePickerController-develop";
-			sourceTree = "<absolute>";
+			path = "../DKImagePickerController-develop";
+			sourceTree = SOURCE_ROOT;
 		};
 		C31A58C3CC40173147C90965AA409E87 /* Resources */ = {
 			isa = PBXGroup;
